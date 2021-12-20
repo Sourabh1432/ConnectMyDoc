@@ -1,0 +1,12 @@
+C:\Users\Navakarthiga.r\Downloads\CMDProjectApplication\CMDProjectApplication\CMD.Business\bin\Debug\net5.0\CMD.Business.deps.json
+C:\Users\Navakarthiga.r\Downloads\CMDProjectApplication\CMDProjectApplication\CMD.Business\bin\Debug\net5.0\CMD.Business.dll
+C:\Users\Navakarthiga.r\Downloads\CMDProjectApplication\CMDProjectApplication\CMD.Business\bin\Debug\net5.0\ref\CMD.Business.dll
+C:\Users\Navakarthiga.r\Downloads\CMDProjectApplication\CMDProjectApplication\CMD.Business\bin\Debug\net5.0\CMD.Business.pdb
+C:\Users\Navakarthiga.r\Downloads\CMDProjectApplication\CMDProjectApplication\CMD.Business\obj\Debug\net5.0\CMD.Business.csproj.AssemblyReference.cache
+C:\Users\Navakarthiga.r\Downloads\CMDProjectApplication\CMDProjectApplication\CMD.Business\obj\Debug\net5.0\CMD.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Navakarthiga.r\Downloads\CMDProjectApplication\CMDProjectApplication\CMD.Business\obj\Debug\net5.0\CMD.Business.AssemblyInfoInputs.cache
+C:\Users\Navakarthiga.r\Downloads\CMDProjectApplication\CMDProjectApplication\CMD.Business\obj\Debug\net5.0\CMD.Business.AssemblyInfo.cs
+C:\Users\Navakarthiga.r\Downloads\CMDProjectApplication\CMDProjectApplication\CMD.Business\obj\Debug\net5.0\CMD.Business.csproj.CoreCompileInputs.cache
+C:\Users\Navakarthiga.r\Downloads\CMDProjectApplication\CMDProjectApplication\CMD.Business\obj\Debug\net5.0\CMD.Business.dll
+C:\Users\Navakarthiga.r\Downloads\CMDProjectApplication\CMDProjectApplication\CMD.Business\obj\Debug\net5.0\ref\CMD.Business.dll
+C:\Users\Navakarthiga.r\Downloads\CMDProjectApplication\CMDProjectApplication\CMD.Business\obj\Debug\net5.0\CMD.Business.pdb
